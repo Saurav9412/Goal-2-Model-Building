@@ -1,2 +1,4 @@
 # Goal-2-Model-Building
 goal: Create a model that uses reliable variables to estimate the credit risk of a car loan. Forecasting credit risk is important for our company to identify consumers who may have credit difficulties. This document contains a collection of consumer financial account information fields.
+To assess the credibility of loan applicants, we'll need to develop statistical models. The candidate who presents the most risks is rejected. Those who have been accepted can be placed in one of many tiers based on their points. Create a logistic regression model that will be used to assess the applicants' credibility using the available data points. The model's separation power (Gini coefficient) will be used to evaluate its quality.
+Build a self-learning model based on past data from bank accounts, credit files,  and consumer loan payment history to enhance scoring model. 
